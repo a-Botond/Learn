@@ -1,6 +1,7 @@
+theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-theme: jekyll-theme-primer
+
 primer:
-  color_scheme: dark_dimmed # Opciók: dark, dark_dimmed, dark_high_contrast
+  color_scheme: dark_dimmed
