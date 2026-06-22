@@ -1,4 +1,4 @@
 remote_theme: lewismiddleton/cayman-dark
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: katex
