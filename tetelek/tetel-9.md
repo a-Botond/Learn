@@ -1,7 +1,7 @@
 <a name="tetel-9"></a>
 
 ## 9. Kolmogorov-féle axiómák 
-[[ Tartalomjegyzék ]](./README.md#tartalomjegyzek) | [[ Előző ]](./tetel-9b.md) | [[ Következő ]](./tetel-9b.md)
+[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-9b.md) | [[ Következő ]](./tetel-9b.md)
 
 
 > A valószínűség lényegében egy olyan matematikai "mérleg", ami sosem mutat negatívat, a biztos dolgokra mindig pontosan 100%-ot (1-et) mér, és ha események egyszerre nem következhetnek be (kizárják egymást), akkor a közös esélyüket egyszerűen a külön-külön vett esélyeik összeadásával kapjuk meg.
