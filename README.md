@@ -46,11 +46,101 @@ A szóbeli vizsgákra való felkészülés során a passzív olvasás nem haték
 
 ### Nulla. Alaptudás
 ### I. Túlélőcsomag
-* [1. Tétel: Triage és prioritizálás](tetelek/tetel-1.md)
-* [2. Tétel: Intuitív megközelítés](tetelek/tetel-2.md)
-* [9. Tétel: Intuitív megközelítés](tetelek/tetel-9.md)
+
+Valószínűségi alapok: 
+* [9. Axiómák](tetelek/tetel-9.md)
+* [10. Feltételes valószínűség](tetelek/tetel-10.md)
+* [11. Teljes valószínűség tétele](tetelek/tetel-11.md)
+* [12. Bayes tétele](tetelek/tetel-12.md)
+
+A legfontosabb mutatók: 
+* [15. Sűrűségfüggvény, eloszlásfüggvény](tetelek/tetel-15.md)
+* [17. Várható érték](tetelek/tetel-17.md)
+* [44. Szórásnégyzet](tetelek/tetel-44.md)
+* [49. Kovariancia](tetelek/tetel-49.md)
+
+A 4 "Szent" Eloszlás: 
+* [18. Binomiális](tetelek/tetel-18.md)
+* [22. Poisson](tetelek/tetel-22.md)
+* [28. Exponenciális](tetelek/tetel-28.md)
+* [30. Normális](tetelek/tetel-30.md)
+
+Egyenlőtlenségek (Nagy vizsgakedvencek): 
+* [46. Csebisev-egyenlőtlenség](tetelek/tetel-46.md)
+* [47. Nagy számok törvénye](tetelek/tetel-47.md)
+
+Becsléselmélet (Statisztika alapok): 
+* [51. Momentummódszer](tetelek/tetel-51.md)
+* [52. ML-módszer](tetelek/tetel-52.md)
+* [42. Torzítatlanság](tetelek/tetel-42.md)
+
+Hipotézisvizsgálat: 
+* [75. Alapfogalmak](tetelek/tetel-75.md)
+* [54. u-próba](tetelek/tetel-54.md)
+* [55. t-próba](tetelek/tetel-55.md)
+
 ### II. Stabil kettes-hármasért (Közepes prioritás)
+
+További eloszlások: 
+* [20. Geometriai](tetelek/tetel-20.md)
+* [24. Hipergeometriai](tetelek/tetel-24.md)
+* [26. Egyenletes](tetelek/tetel-26.md)
+
+Műveletek valószínűségi változókkal: 
+* [34. Összeg](tetelek/tetel-34.md)
+* [35-37. Összegek eloszlásai](tetelek/tetel-35.md)
+* [38. Szorzat](tetelek/tetel-38.md)
+* [41. Összeg várható értéke](tetelek/tetel-41.md)
+
+Becslések tulajdonságai: 
+* [50. Szórásnégyzet torzítatlan becslése](tetelek/tetel-50.md)
+* [66. Erősen konzisztens becslések](tetelek/tetel-66.md)
+
+További próbák: 
+* [56-57. Kétmintás u- és t-próbák](tetelek/tetel-56.md)
+* [61. Illeszkedésvizsgálat](tetelek/tetel-61.md)
+* [62. Függetlenségvizsgálat](tetelek/tetel-62.md)
+
+Regresszió: 
+* [79. Lineáris regresszió, legkisebb négyzetek módszere](tetelek/tetel-79.md)
 ### III. Időcsapda tételek (Alacsony prioritás / Nehéz)
-*(Ide másolhatod be a többi tételt is a saját sorszámukkal és horgony-linkjeikkel...)*
+
+További eloszlások: 
+* [20. Geometriai](tetelek/tetel-20.md)
+* [24. Hipergeometriai](tetelek/tetel-24.md)
+* [26. Egyenletes](tetelek/tetel-26.md)
+
+Műveletek valószínűségi változókkal: 
+* [34. Összeg](tetelek/tetel-34.md)
+* [35-37. Összegek eloszlásai](tetelek/tetel-35.md)
+* [38. Szorzat](tetelek/tetel-38.md)
+* [41. Összeg várható értéke](tetelek/tetel-41.md)
+
+Becslések tulajdonságai: 
+* [50. Szórásnégyzet torzítatlan becslése](tetelek/tetel-50.md)
+* [66. Erősen konzisztens becslések](tetelek/tetel-66.md)
+
+További próbák: 
+* [56-57. Kétmintás u- és t-próbák](tetelek/tetel-56.md)
+* [61. Illeszkedésvizsgálat](tetelek/tetel-61.md)
+* [62. Függetlenségvizsgálat](tetelek/tetel-62.md)
+
+Regresszió: 
+* [79. Lineáris regresszió, legkisebb négyzetek módszere](tetelek/tetel-79.md)
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
