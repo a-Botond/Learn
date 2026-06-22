@@ -8,7 +8,7 @@
 
 
 ### TÉTEL:
-Legyen $\Omega$ az eseménytér (a lehetséges kimenetelek halmaza) és $\mathcal{A}$ az események $\sigma$-algebrája. A $P: \mathcal{A} \to \mathbb{R}$ halmazfüggvényt valószínűségnek (vagy valószínűségi mértéknek) nevezzük, ha teljesíti az alábbi három axiómát:
+Legyen $$$\Omega$$$ az eseménytér (a lehetséges kimenetelek halmaza) és $\mathcal{A}$ az események $\sigma$-algebrája. A $P: \mathcal{A} \to \mathbb{R}$ halmazfüggvényt valószínűségnek (vagy valószínűségi mértéknek) nevezzük, ha teljesíti az alábbi három axiómát:
 
 1. **Nemnegativitás:** Minden $A \in \mathcal{A}$ eseményre:
 $$P(A) \ge 0$$
