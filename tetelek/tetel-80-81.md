@@ -1,7 +1,7 @@
 <a name="tetel-80-81"></a>
 
 ## 80-81. Polinomiális és Nadaraya-Watson regresszió
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-60.md#tetel-60) | [[ Következő ]](./tetel-80-81.md#tetel-80-81)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-60.md#tetel-60) | [[ Következő ]](./tetel-80-81.md#tetel-80-81)
 
 
 > A polinomiális regresszió egyetlen rugalmas, de merev szabályoknak engedelmeskedő globális "drótot" (görbét) hajlít rá az egész adathalmazra, míg a Nadaraya-Watson módszer eldobja a képleteket, és minden vizsgált pontban egyszerűen csak a legközelebbi szomszédok eredményeinek lokális, a távolsággal exponenciálisan csökkenő súlyozott átlagát számolja ki.

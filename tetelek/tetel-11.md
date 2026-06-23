@@ -1,7 +1,7 @@
 <a name="tetel-11"></a>
 
 ## 11. Teljes valószínűség tétele 
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-10.md#tetel-10) | [[ Következő ]](./tetel-12.md#tetel-12)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-10.md#tetel-10) | [[ Következő ]](./tetel-12.md#tetel-12)
 
 
 > Ha egy esemény többféle, egymást kizáró „forgatókönyv” (rész-eset) szerint is megvalósulhat, akkor a teljes esélyét úgy kapjuk meg, hogy minden egyes forgatókönyv bekövetkezési esélyét megszorozzuk az esemény adott forgatókönyv melletti feltételes esélyével, majd ezeket az eredményeket egyszerűen összeadjuk (súlyozott átlagot vonunk).

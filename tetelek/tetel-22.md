@@ -1,7 +1,7 @@
 <a name="tetel-22"></a>
 
 ## 22. Poisson eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-18.md#tetel-18) | [[ Következő ]](./tetel-28.md#tetel-28)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-18.md#tetel-18) | [[ Következő ]](./tetel-28.md#tetel-28)
 
 
 > A Poisson-eloszlás azt mutatja meg, mekkora eséllyel következik be pontosan egy adott számú ritka, egymástól teljesen független esemény (például beérkező hívások, sajtóhibák egy könyvben vagy meteorok felvillanása) egy fix időtartam vagy terület alatt, ha csak a hosszútávú átlagukat (a rátát) ismerjük.

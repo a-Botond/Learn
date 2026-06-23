@@ -1,7 +1,7 @@
 <a name="tetel-12"></a>
 
 ## 12. Bayes tétele
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-11.md#tetel-11) | [[ Következő ]](./tetel-15.md#tetel-15)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-11.md#tetel-11) | [[ Következő ]](./tetel-15.md#tetel-15)
 
 
 > A Bayes-tétel azt mutatja meg, hogyan kell racionálisan frissíteni egy esemény bekövetkezésének esélyét (a korábbi tudásunkat), amint egy új, ahhoz kapcsolódó információ vagy bizonyíték napvilágot lát.

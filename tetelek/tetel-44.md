@@ -1,7 +1,7 @@
 <a name="tetel-44"></a>
 
 ## 44. Szórásnégyzet (és kiszámítási tétele)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-17.md#tetel-17) | [[ Következő ]](./tetel-49.md#tetel-49)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-17.md#tetel-17) | [[ Következő ]](./tetel-49.md#tetel-49)
 
 
 > A szórásnégyzet azt méri, hogy egy véletlen kísérlet eredményei átlagosan mennyire "szóródnak" (ingadoznak) a várható értéktől – precízen fogalmazva: az átlagtól való eltérések négyzetének az átlaga.

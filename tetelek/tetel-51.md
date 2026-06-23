@@ -1,7 +1,7 @@
 <a name="tetel-51"></a>
 
 ## 51. Momentummódszer (Becsléselmélet)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-47.md#tetel-47) | [[ Következő ]](./tetel-52.md#tetel-52)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-47.md#tetel-47) | [[ Következő ]](./tetel-52.md#tetel-52)
 
 
 > A momentummódszer logikája végtelenül egyszerű: feltételezzük, hogy a vizsgált sokaság elméleti "átlagai" (várható értéke, szórása) pontosan megegyeznek a kezünkben lévő konkrét minta ténylegesen kiszámolt átlagaival, és ebből az egyenlőségből visszafejtjük az ismeretlen paramétereket.

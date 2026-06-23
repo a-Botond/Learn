@@ -1,7 +1,7 @@
 <a name="tetel-61"></a>
 
 ## 61. Illeszkedésvizsgálat (Pearson-féle Khí-négyzet próba)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-56-57.md#tetel-56-57) | [[ Következő ]](./tetel-62.md#tetel-62)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-56-57.md#tetel-56-57) | [[ Következő ]](./tetel-62.md#tetel-62)
 
 
 > Az illeszkedésvizsgálat azt ellenőrzi, hogy a valóságban megfigyelt adataink mennyire passzolnak egy előre kitalált elméleti modellhez; ezt úgy teszi, hogy a tényleges és az elvárt darabszámok közötti eltéréseket összegzi, és ha a kapott "hibapontszám" gyanúsan nagy, akkor az elméleti modellt egyszerűen kidobjuk.

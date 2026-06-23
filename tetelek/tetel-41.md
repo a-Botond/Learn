@@ -1,7 +1,7 @@
 <a name="tetel-41"></a>
 
 ## 41. Az összeg várható értéke
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-38.md#tetel-38) | [[ Következő ]](./tetel-35-37.md#tetel-35-37)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-38.md#tetel-38) | [[ Következő ]](./tetel-35-37.md#tetel-35-37)
 
 
 > Két véletlen esemény (vagy befektetés) együttes átlageredménye pontosan megegyezik a külön-külön vett átlagaik összegével, teljesen függetlenül attól, hogy a két dolog hat-e egymásra.

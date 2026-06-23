@@ -1,7 +1,7 @@
 <a name="tetel-62"></a>
 
 ## 62. Függetlenségvizsgálat (Khí-négyzet próba kontingenciatáblákra)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-61.md#tetel-61) | [[ Következő ]](./tetel-79.md#tetel-79)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-61.md#tetel-61) | [[ Következő ]](./tetel-79.md#tetel-79)
 
 
 > A függetlenségvizsgálat azt ellenőrzi, hogy két tulajdonság (például a nem és a politikai preferencia) között van-e bármilyen valós kapcsolat, méghozzá úgy, hogy összehasonlítja a táblázatunkban lévő tényleges adatokat azokkal a "kikevert" darabszámokkal, amiket akkor látnánk, ha a két dolog teljesen vak lenne egymásra.

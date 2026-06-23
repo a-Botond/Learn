@@ -1,7 +1,7 @@
 <a name="tetel-68-71"></a>
 
 ## 68-71. Fisher-információ
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-79.md#tetel-79) | [[ Következő ]](./tetel-72.md#tetel-72)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-79.md#tetel-79) | [[ Következő ]](./tetel-72.md#tetel-72)
 
 
 > A Fisher-információ azt a "képélességet" méri, hogy a megfigyelt adataink mennyire határolják be egyértelműen az ismeretlen paramétert: ha ez az érték magas, a valószerűségi görbénknek tűhegyes csúcsa van, így szinte lehetetlen mellélőni a becslésnél.

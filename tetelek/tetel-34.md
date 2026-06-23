@@ -1,7 +1,7 @@
 <a name="tetel-34"></a>
 
 ## 34. Összeg (Műveletek valószínűségi változókkal)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-26.md#tetel-26) | [[ Következő ]](./tetel-38.md#tetel-38)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-26.md#tetel-26) | [[ Következő ]](./tetel-38.md#tetel-38)
 
 
 > Ha két bizonytalan dolgot összeadunk (például két befektetés hozamát), akkor a várható átlaguk mindig egyszerűen összeadódik, de a teljes bizonytalanságuk (a szórásnégyzetük) csak akkor adódik össze tisztán, ha a két dolog teljesen független egymástól – ha viszont van köztük kapcsolat, akkor ez az együttmozgás növelheti vagy épp csökkentheti a végső kockázatot.

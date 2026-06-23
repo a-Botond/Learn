@@ -1,7 +1,7 @@
 <a name="tetel-56-57"></a>
 
 ## 56-57. Kétmintás u- és t-próbák
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-66.md#tetel-66) | [[ Következő ]](./tetel-61.md#tetel-61)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-66.md#tetel-66) | [[ Következő ]](./tetel-61.md#tetel-61)
 
 
 > A kétmintás próbák azt vizsgálják, hogy két teljesen különálló csoport (például egy új gyógyszert kapó és egy kontrollcsoport) átlagai közötti megfigyelt különbség valódi, rendszerszintű eltérésre utal-e, vagy csupán a véletlen mintavétel okozta zaj játékáról van szó.

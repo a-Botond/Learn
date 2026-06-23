@@ -1,7 +1,7 @@
 <a name="tetel-10"></a>
 
 ## 10. Feltételes valószínűség (és Szorzástétel)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-9.md#tetel-9) | [[ Következő ]](./tetel-11.md#tetel-11)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-9.md#tetel-9) | [[ Következő ]](./tetel-11.md#tetel-11)
 
 
 > A feltételes valószínűség azt mutatja meg, hogyan változik egy esemény esélye, ha megtudjuk, hogy egy másik esemény már biztosan bekövetkezett – ilyenkor a teljes "lehetséges világ" (az eseménytér) leszűkül kizárólag azokra az esetekre, ahol ez az új információ igaz.

@@ -1,7 +1,7 @@
 <a name="tetel-17"></a>
 
 ## 17. Várható érték (és linearitása)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-15.md#tetel-15) | [[ Következő ]](./tetel-44.md#tetel-44)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-15.md#tetel-15) | [[ Következő ]](./tetel-44.md#tetel-44)
 
 
 > A várható érték lényegében a valószínűségekkel súlyozott átlag: megmutatja, hogy ha egy kísérletet (például egy szerencsejátékot) végtelen sokszor megismételnénk, egy-egy alkalomra vetítve átlagosan milyen eredményt kapnánk (ez egyben a valószínűségi eloszlás "tömegközéppontja" is).

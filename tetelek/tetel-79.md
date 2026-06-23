@@ -1,7 +1,7 @@
 <a name="tetel-79"></a>
 
 ## 79. Lineáris regresszió (Legkisebb négyzetek módszere)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-62.md#tetel-62) | [[ Következő ]](./tetel-68-71.md#tetel-68-71)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-62.md#tetel-62) | [[ Következő ]](./tetel-68-71.md#tetel-68-71)
 
 
 > A legkisebb négyzetek módszere azt a "tökéletes" egyenest keresi egy ponthalmazban, amelyik úgy feszül ki a pontok között, hogy ha minden pontból húzunk egy függőleges vonalat az egyenesig, akkor ezeknek a hibaszakaszoknak a területre emelt (négyzetes) összege a lehető legkisebb lesz.

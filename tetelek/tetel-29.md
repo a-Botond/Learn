@@ -1,7 +1,7 @@
 <a name="tetel-29"></a>
 
 ## 29. Béta-eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-27.md#tetel-27) | [[ Következő ]](./tetel-31.md#tetel-31)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-27.md#tetel-27) | [[ Következő ]](./tetel-31.md#tetel-31)
 
 
 > A Béta-eloszlás a "valószínűségek valószínűsége": egy 0 és 1 közötti skálán modellezi, hogy mennyire lehetünk biztosak egy esemény (például egy dobókocka cinkeltsége vagy egy weboldal konverziós rátája) valódi esélyében, miután már megfigyeltünk bizonyos számú $\alpha-1$ sikert és $\beta-1$ kudarcot.

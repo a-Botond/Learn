@@ -1,7 +1,7 @@
 <a name="tetel-72"></a>
 
 ## 72. Cramér-Rao-egyenlőtlenség
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-68-71.md#tetel-68-71) | [[ Következő ]](./tetel-74.md#tetel-74)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-68-71.md#tetel-68-71) | [[ Következő ]](./tetel-74.md#tetel-74)
 
 
 > A Cramér-Rao-egyenlőtlenség a statisztika "Heisenberg-féle határozatlansági relációja", amely kimondja: létezik egy matematikai kőfal, egy elméleti alsó határ, ami alá a torzítatlan becslésünk bizonytalansága (szórásnégyzete) sosem csökkenhet, akármilyen zseniális képletet is találunk ki.

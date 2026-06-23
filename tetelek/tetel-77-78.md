@@ -1,7 +1,7 @@
 <a name="tetel-77-78"></a>
 
 ## 77-78. Neyman-Pearson-lemma
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-74.md#tetel-74) | [[ Következő ]](./tetel-27.md#tetel-27)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-74.md#tetel-74) | [[ Következő ]](./tetel-27.md#tetel-27)
 
 
 > A Neyman-Pearson-lemma azt mondja ki, hogy ha két konkrét feltételezés (például két gyanúsított) közül kell a legkevesebb hibával választanunk, akkor a legjobb döntés az, ha a bizonyítékok (az adatok) valószerűségének hányadosát nézzük, és ott húzzuk meg a határt, ahol ez a mérleg a leginkább kibillen az egyik irányba.

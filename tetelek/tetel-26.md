@@ -1,7 +1,7 @@
 <a name="tetel-26"></a>
 
 ## 26. Egyenletes eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-24.md#tetel-24) | [[ Következő ]](./tetel-36.md#tetel-36)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-24.md#tetel-24) | [[ Következő ]](./tetel-36.md#tetel-36)
 
 
 > A folytonos egyenletes eloszlás a "tökéletes igazságosság" modellje: egy adott tartományon belül bárhová is bökünk, a valószínűség pusztán attól függ, hogy mekkora a "célkeresztünk" (az intervallum hossza), és egyáltalán nem függ attól, hogy ez a sáv hol helyezkedik el.

@@ -1,7 +1,7 @@
 <a name="tetel-18"></a>
 
 ## 18. Binomiális eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-49.md#tetel-49) | [[ Következő ]](./tetel-22.md#tetel-22)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-49.md#tetel-49) | [[ Következő ]](./tetel-22.md#tetel-22)
 
 
 > A binomiális eloszlás pontosan megmondja, mekkora az esélye annak, hogy ha egy kísérletet (például egy cinkelt érme feldobását) egy fix számszor megismétlünk, akkor abból pontosan egy adott darabszámú alkalommal kapunk "sikeres" kimenetelt.

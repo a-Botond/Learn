@@ -1,7 +1,7 @@
 <a name="tetel-74"></a>
 
 ## 74. Elégséges statisztikai függvény
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-72.md#tetel-72) | [[ Következő ]](./tetel-77-78.md#tetel-77-78)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-72.md#tetel-72) | [[ Következő ]](./tetel-77-78.md#tetel-77-78)
 
 
 > Az elégséges statisztika úgy sűríti össze az összes nyers adatunkat egyetlen értékbe vagy vektorba, hogy közben egyetlen csepp információt sem veszítünk el az ismeretlen paraméterről; ha ezt a "kivonatot" ismered, az eredeti adathalmaz már semmi újat nem tudna mondani neked.

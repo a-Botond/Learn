@@ -1,7 +1,7 @@
 <a name="tetel-42"></a>
 
 ## 42. Torzítatlanság (Becsléselmélet)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-52.md#tetel-52) | [[ Következő ]](./tetel-75.md#tetel-75)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-52.md#tetel-52) | [[ Következő ]](./tetel-75.md#tetel-75)
 
 
 > A torzítatlanság azt jelenti, hogy a becslési módszerünk nem "húz" szisztematikusan se lefelé, se felfelé: ha a kísérletet végtelen sokszor megismételnénk és újabb mintákat vennénk, az ezekből számolt becsléseink átlaga hajszálpontosan a keresett, valódi elméleti értékre állna be.

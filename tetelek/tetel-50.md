@@ -1,7 +1,7 @@
 <a name="tetel-50"></a>
 
 ## 50. Szórásnégyzet torzítatlan becslése
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-35-37.md#tetel-35-37) | [[ Következő ]](./tetel-66.md#tetel-66)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-35-37.md#tetel-35-37) | [[ Következő ]](./tetel-66.md#tetel-66)
 
 
 > A tapasztalati szórásnégyzet kiszámításakor azért osztunk $n$ helyett $n-1$-gyel, mert a minta elemei matematikailag mindig "közelebb húzódnak" a saját, mintából számolt átlagukhoz, mint a populáció valódi, ismeretlen átlagához; így a sima átlagolás szisztematikusan alábecsülné a tényleges ingadozást, amit ez a némileg kisebb nevező korrigál.

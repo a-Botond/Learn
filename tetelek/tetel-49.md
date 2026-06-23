@@ -1,7 +1,7 @@
 <a name="tetel-49"></a>
 
 ## 49. Kovariancia (és kiszámítási tétele)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-44.md#tetel-44) | [[ Következő ]](./tetel-18.md#tetel-18)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-44.md#tetel-44) | [[ Következő ]](./tetel-18.md#tetel-18)
 
 
 > A kovariancia azt méri, hogy két dolog mennyire "mozog együtt" a valóságban: ha az egyik a saját átlaga felett van, akkor jellemzően a másik is ott van-e (pozitív együttmozgás), vagy épp ellenkezőleg, a másik olyankor inkább az átlaga alatt húzódik meg (negatív együttmozgás).

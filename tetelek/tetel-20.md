@@ -1,7 +1,7 @@
 <a name="tetel-20"></a>
 
 ## 20. Geometriai eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-55.md#tetel-55) | [[ Következő ]](./tetel-24.md#tetel-24)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-55.md#tetel-55) | [[ Következő ]](./tetel-24.md#tetel-24)
 
 
 > A geometriai eloszlás azt a mindennapi, olykor bosszantó "meddig kell próbálkoznom, amíg végre sikerül" helyzetet írja le, és pontosan megadja annak az esélyét, hogy a várva várt első siker hajszálpontosan a $k$-adik kísérletünkre fog összejönni.

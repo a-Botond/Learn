@@ -1,7 +1,7 @@
 <a name="tetel-28"></a>
 
 ## 28. Exponenciális eloszlás (és örökifjú tulajdonsága)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-22.md#tetel-22) | [[ Következő ]](./tetel-30.md#tetel-30)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-22.md#tetel-22) | [[ Következő ]](./tetel-30.md#tetel-30)
 
 
 > Az exponenciális eloszlás a "várakozási idők" eloszlása: azt modellezi, mennyi ideig kell várnunk a következő teljesen véletlenszerűen, de egy fix átlagos rátával bekövetkező eseményre (például egy rádióaktív részecske elbomlására), méghozzá úgy, hogy a rendszernek nincsen "memóriája" az eltelt időről.

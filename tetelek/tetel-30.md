@@ -1,7 +1,7 @@
 <a name="tetel-30"></a>
 
 ## 30. Normális eloszlás (és a Gauss-integrál)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-28.md#tetel-28) | [[ Következő ]](./tetel-46.md#tetel-46)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-28.md#tetel-28) | [[ Következő ]](./tetel-46.md#tetel-46)
 
 
 > A normális eloszlás azt a természetben (például testmagasság, mérési hibák, IQ) lépten-nyomon előforduló "haranggörbe" jelenséget írja le, ahol az értékek leginkább az átlag körül sűrűsödnek, és attól mindkét irányba távolodva, szimmetrikusan egyre ritkábban fordulnak elő.

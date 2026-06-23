@@ -1,7 +1,7 @@
 <a name="tetel-15"></a>
 
 ## 15. Sűrűségfüggvény, eloszlásfüggvény
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-12.md#tetel-12) | [[ Következő ]](./tetel-17.md#tetel-17)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-12.md#tetel-12) | [[ Következő ]](./tetel-17.md#tetel-17)
 
 
 > Az eloszlásfüggvény megmutatja, mennyi eséllyel "gyűlt össze" a valószínűség egy adott pontig (mint egy futólagos egyenleg), a sűrűségfüggvény pedig a valószínűség helyi "intenzitását" adja meg, amelynek a görbe alatti területe jelenti a tényleges (egy adott sávba esési) esélyt.

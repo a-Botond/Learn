@@ -1,7 +1,7 @@
 <a name="tetel-55"></a>
 
 ## 55. t-próba (Egymintás t-próba)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-54.md#tetel-54) | [[ Következő ]](./tetel-20.md#tetel-20)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-54.md#tetel-54) | [[ Következő ]](./tetel-20.md#tetel-20)
 
 
 > A t-próba az u-próba óvatosabb testvére: azt méri, hogy a mintaátlag mennyire tér el a célétrendtől, de mivel itt az alapsokaság eredeti ingadozását (szórását) sem ismerjük és azt is a mintából kell "megtippelnünk", a rendszer ezt a bizonytalanságot egy megengedőbb, szélesebb (t-eloszlású) hibahatárral bünteti, különösen pici minták esetén.

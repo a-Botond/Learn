@@ -1,7 +1,7 @@
 <a name="tetel-47"></a>
 
 ## 47. Nagy számok törvénye (Gyenge törvény)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-46.md#tetel-46) | [[ Következő ]](./tetel-51.md#tetel-51)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-46.md#tetel-46) | [[ Következő ]](./tetel-51.md#tetel-51)
 
 
 > A nagy számok törvénye a statisztika legfontosabb ígérete: garantálja, hogy ha egy kísérletet nagyon sokszor, egymástól függetlenül megismételsz (például kockadobás, mérés), akkor a kapott eredmények átlaga szinte biztosan hajszálpontosan beáll a valódi elméleti átlagra (a várható értékre).

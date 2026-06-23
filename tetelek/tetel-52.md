@@ -1,7 +1,7 @@
 <a name="tetel-52"></a>
 
 ## 52. ML-módszer (Maximum Likelihood becslés)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-51.md#tetel-51) | [[ Következő ]](./tetel-42.md#tetel-42)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-51.md#tetel-51) | [[ Következő ]](./tetel-42.md#tetel-42)
 
 
 > A Maximum Likelihood (legnagyobb valószerűség) módszere "visszafelé" gondolkodik: azt az ismeretlen elméleti paramétert tekinti a legjobb becslésnek, amely mellett a legnagyobb matematikai eséllyel (valószínűséggel) jött volna ki pont az a konkrét adathalmaz, amit a valóságban a kezünkben tartunk.

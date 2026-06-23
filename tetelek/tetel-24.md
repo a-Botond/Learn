@@ -1,7 +1,7 @@
 <a name="tetel-24"></a>
 
 ## 24. Hipergeometriai eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-20.md#tetel-20) | [[ Következő ]](./tetel-26.md#tetel-26)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-20.md#tetel-20) | [[ Következő ]](./tetel-26.md#tetel-26)
 
 
 > A hipergeometriai eloszlás azt mutatja meg, mekkora eséllyel húzunk ki pontosan egy adott számú "nyertes" (vagy épp selejtes) elemet egy véges sokaságból, ha a kihúzott elemeket – az ötöslottóhoz vagy a kártyaosztáshoz hasonlóan – *nem tesszük vissza*.

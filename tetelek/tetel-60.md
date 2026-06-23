@@ -1,7 +1,7 @@
 <a name="tetel-60"></a>
 
 ## 60. Nem független t-próba (Párosított t-próba)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-58.md#tetel-58) | [[ Következő ]](./tetel-80-81.md#tetel-80-81)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-58.md#tetel-58) | [[ Következő ]](./tetel-80-81.md#tetel-80-81)
 
 
 > A nem független (párosított) t-próba azt a zseniális húzást alkalmazza, hogy két erősen összefüggő adatsort (például ugyanazon betegek vérnyomását egy gyógyszer bevétele "előtt" és "után") nem két különálló sokaságként kezel, hanem egyénenként veszi a változást, így az egész bonyolult összehasonlítást egyetlen, letisztult adatsorrá olvasztja.

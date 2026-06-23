@@ -1,7 +1,7 @@
 <a name="tetel-66"></a>
 
 ## 66. Erősen konzisztens becslések
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-50.md#tetel-50) | [[ Következő ]](./tetel-56-57.md#tetel-56-57)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-50.md#tetel-50) | [[ Következő ]](./tetel-56-57.md#tetel-56-57)
 
 
 > A konzisztencia azt a megnyugtató statisztikai ígéretet jelenti, hogy ha a végtelenségig növeljük a gyűjtött adatok (a minta) mennyiségét, akkor a becslésünk hibája nemcsak szimplán csökken, hanem 100%-os bizonyossággal, tévedhetetlenül "rácuppan" a keresett, valódi elméleti értékre.

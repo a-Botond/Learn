@@ -1,7 +1,7 @@
 <a name="tetel-75"></a>
 
 ## 75. Alapfogalmak (Hipotézisvizsgálat)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-42.md#tetel-42) | [[ Következő ]](./tetel-54.md#tetel-54)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-42.md#tetel-42) | [[ Következő ]](./tetel-54.md#tetel-54)
 
 
 > A hipotézisvizsgálat pontosan olyan, mint egy büntetőper: a vizsgált állítás (a nullhipotézis) ártatlan, amíg a mintából vett bizonyítékok (adatok) annyira extrémek nem lesznek, hogy a véletlen egybeesés esélye egy előre megadott, nagyon pici hibahatár (a szignifikanciaszint) alá csökken.

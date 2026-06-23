@@ -1,7 +1,7 @@
 <a name="tetel-27"></a>
 
 ## 27. Gamma-eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-77-78.md#tetel-77-78) | [[ Következő ]](./tetel-29.md#tetel-29)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-77-78.md#tetel-77-78) | [[ Következő ]](./tetel-29.md#tetel-29)
 
 
 > A Gamma-eloszlás az exponenciális eloszlás "türelmes bátyja": míg az exponenciális azt mondja meg, meddig kell várnod az *első* buszra (vagy az első meghibásodásra), a Gamma-eloszlás azt modellezi, mennyi teljes időt fogsz a megállóban tölteni, amíg pontosan az *$\alpha$-adik* busz meg nem érkezik.

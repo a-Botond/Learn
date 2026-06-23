@@ -1,7 +1,7 @@
 <a name="tetel-46"></a>
 
 ## 46. Csebisev-egyenlőtlenség
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-30.md#tetel-30) | [[ Következő ]](./tetel-47.md#tetel-47)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-30.md#tetel-30) | [[ Következő ]](./tetel-47.md#tetel-47)
 
 
 > A Csebisev-egyenlőtlenség univerzálisan garantálja, hogy bármilyen furcsa is legyen egy eloszlás, az adatok túlnyomó többsége mindig az átlag közelében tömörül, és minél messzebb megyünk az átlagtól, annál drasztikusabban (négyzetesen) csökken az esélye annak, hogy ott kiugró értéket találunk.

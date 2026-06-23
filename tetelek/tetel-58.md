@@ -1,7 +1,7 @@
 <a name="tetel-58"></a>
 
 ## 58. Welch-próba (Kétmintás t-próba nem egyenlő szórások esetére)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-31.md#tetel-31) | [[ Következő ]](./tetel-60.md#tetel-60)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-31.md#tetel-31) | [[ Következő ]](./tetel-60.md#tetel-60)
 
 
 > A Welch-próba a klasszikus kétmintás t-próba "megengedőbb" nagytesója: azt vizsgálja, hogy két csoport átlaga azonos-e, de nem kényszeríti rájuk azt az a priori (és sokszor irreális) feltételt, hogy a természetes ingadozásuk (szórásuk) is milliméterre pontosan megegyezzen, hanem a "szabadságfok" ravasz lecsökkentésével kompenzálja ezt a plusz bizonytalanságot.

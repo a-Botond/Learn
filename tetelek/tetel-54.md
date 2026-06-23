@@ -1,7 +1,7 @@
 <a name="tetel-54"></a>
 
 ## 54. u-próba (Egymintás u-próba)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-75.md#tetel-75) | [[ Következő ]](./tetel-55.md#tetel-55)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-75.md#tetel-75) | [[ Következő ]](./tetel-55.md#tetel-55)
 
 
 > Az u-próba egyszerűen azt méri meg, hogy a mintánkból kiszámolt átlag hány "szabványlépésre" (szabványos hibára) van az elméletileg elvárt céltól; ha ez a távolság gyanúsan nagy (tipikusan 2-nél több), akkor az eredeti feltevésünket elvetjük.

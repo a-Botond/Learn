@@ -1,7 +1,7 @@
 <a name="tetel-38"></a>
 
 ## 38. Szorzat (Műveletek valószínűségi változókkal)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-34.md#tetel-34) | [[ Következő ]](./tetel-41.md#tetel-41)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-34.md#tetel-34) | [[ Következő ]](./tetel-41.md#tetel-41)
 
 
 > Ha két bizonytalan dolgot összeszorzunk (például egy téglalap véletlenszerű oldalhosszait, hogy megkapjuk a területet), a szorzatuk átlagos értéke csak akkor egyenlő a külön-külön vett átlagaik szorzatával, ha a két dolog teljesen független egymástól; ha van köztük kapcsolat, akkor az "együttmozgásuk" (kovarianciájuk) el fogja torzítani a végeredményt.

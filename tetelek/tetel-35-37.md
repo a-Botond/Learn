@@ -1,7 +1,7 @@
 <a name="tetel-35-37"></a>
 
 ## 35-37. Összegek eloszlásai (és a reproduktivitás)
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-41.md#tetel-41) | [[ Következő ]](./tetel-50.md#tetel-50)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-41.md#tetel-41) | [[ Következő ]](./tetel-50.md#tetel-50)
 
 
 > Ha azonos típusú, egymástól független véletlen dolgokat adunk össze (például két normális eloszlású hibát vagy két Poisson-folyamat eseményeit), bizonyos "kiválasztott" eloszlások csodálatos módon megtartják az eredeti alakjukat, és csupán a paramétereik (az átlaguk és a szórásuk) adódnak össze.

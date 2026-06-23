@@ -1,7 +1,7 @@
 <a name="tetel-31"></a>
 
 ## 31. Weibull-eloszlás
-[[ Tartalomjegyzék ]](/README.md#tartalomjegyzek) | [[ Előző ]](./tetel-29.md#tetel-29) | [[ Következő ]](./tetel-58.md#tetel-58)
+[[ Tartalomjegyzék ]](../README.md#tartalomjegyzek) | [[ Előző ]](./tetel-29.md#tetel-29) | [[ Következő ]](./tetel-58.md#tetel-58)
 
 
 > A Weibull-eloszlás a megbízhatóságelmélet "jokere": rugalmasan képes leírni egy alkatrész (vagy élőlény) élettartamát, függetlenül attól, hogy a meghibásodás esélye az idővel egyre nő (kopás, öregedés), folyamatosan csökken (bejáratódási szakasz), vagy éppen teljesen állandó.
